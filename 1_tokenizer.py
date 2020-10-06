@@ -1,15 +1,15 @@
-# Intro to NLP with Python - a series in 9 steps
-# Step 1: Tokenizer
-#
 # Author: Luca Naso - contact: www.lucanaso.it
+# Creation date: 16 Sep 2020
 # Contributors: empty for now
-# URL: www.lucanaso.it/
+# URL: https://lucanaso.it/2020/09/20/tokenization-nlp-di-base-in-python-1-di-9/
 # License: GNU CPL v3.0, see the LICENSE file.
 # Natural Language: Italian for the blog post, English for the code
+# Topic: Intro to basic NLP in Python - a series in 9 steps
+#        Step 1: Tokenization
 #
 
 # ### Import section
-# Import (3) tokenizers from nltk
+# Import 3 tokenizers from nltk
 from nltk.tokenize import sent_tokenize, word_tokenize, RegexpTokenizer
 
 # Create a dataset to be used as input for the tokenizers.

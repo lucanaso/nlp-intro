@@ -2,7 +2,7 @@
 # Creation date: 22 Sep 2020
 # Contributors: empty for now
 # URL: https://lucanaso.it/2020/10/06/stemming-nlp-di-base-in-python-2-di-9/
-# License: GNU CPL v3.0, see the LICENSE file.
+# License: GNU GPL v3.0, see the LICENSE file.
 # Natural Language: Italian for the blog post, English for the code
 # Topic: Intro to basic NLP in Python - a series in 9 steps
 #        Step 2: Stemming

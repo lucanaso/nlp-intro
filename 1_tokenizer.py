@@ -2,7 +2,7 @@
 # Creation date: 16 Sep 2020
 # Contributors: empty for now
 # URL: https://lucanaso.it/2020/09/20/tokenization-nlp-di-base-in-python-1-di-9/
-# License: GNU CPL v3.0, see the LICENSE file.
+# License: GNU GPL v3.0, see the LICENSE file.
 # Natural Language: Italian for the blog post, English for the code
 # Topic: Intro to basic NLP in Python - a series in 9 steps
 #        Step 1: Tokenization

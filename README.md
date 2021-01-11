@@ -32,4 +32,4 @@ Per ciascun argomento:
 - Data di pubblicazione: 11 gennaio 2021.
 - Codice sorgente: un file, "3_lemmatization.py"
 - File dati: due file, "text_run_eng.txt" e "text_lotr_sam_turningback.txt"
-- Blog post: un articolo, <a href="https://lucanaso.it/2021/01/11/lematization-nlp-di-base-in-python-3-di-9/" target="_blank">Lemmatization</a> (https://lucanaso.it/2021/01/11/lematization-nlp-di-base-in-python-3-di-9/)
+- Blog post: un articolo, <a href="https://lucanaso.it/2021/01/11/lemmatization-nlp-di-base-in-python-3-di-9/" target="_blank">Lemmatization</a> (https://lucanaso.it/2021/01/11/lemmatization-nlp-di-base-in-python-3-di-9/)

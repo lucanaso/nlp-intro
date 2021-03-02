@@ -41,6 +41,6 @@ La serie procede per passi, iniziando con argomenti semplici e funzionali ai pas
 - Data di pubblicazione: 02 marzo 2021
 - Codice sorgente: tre file, "4.1_splitting.py", "4.2_splitting.py", "NLP_base_library.py"
 - File dati: un file, "text_run_eng.txt"
-- Blog post: un articolo, <a href="https://lucanaso.it/2021/03/02/splitting-nlp-di-base-in-python-4-di-9/" target="_blank">Splitting</a> (https://lucanaso.it/2021/03/02/splitting-nlp-di-base-in-python-4-di-9)
+- Blog post: un articolo, <a href="https://lucanaso.it/2021/02/03/splitting-nlp-di-base-in-python-4-di-9/" target="_blank">Splitting</a> (https://lucanaso.it/2021/02/03/splitting-nlp-di-base-in-python-4-di-9/)
 
 

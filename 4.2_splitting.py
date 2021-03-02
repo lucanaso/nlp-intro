@@ -1,7 +1,7 @@
 # Author: Luca Naso - contact: www.lucanaso.it
 # Creation date: 25 Jan 2021
 # Contributors: empty for now
-# URL: https://lucanaso.it/2021/03/02/splitting-nlp-di-base-in-python-4-di-9
+# URL: https://lucanaso.it/2021/02/03/splitting-nlp-di-base-in-python-4-di-9/
 # License: GNU GPL v3.0, see the LICENSE file.
 # Natural Language: blog post in Italian, code in English
 # Topic: Intro to basic NLP in Python - a series in 9 steps

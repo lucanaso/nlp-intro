@@ -15,7 +15,7 @@ Per ciascun argomento:
  - verranno scritti uno o più file sorgente .py (con commenti in inglese), tutti condivisi in questo repository;
  - verranno realizzati uno o più blog post (in italiano), pubblicati in questo <a href="https://lucanaso.it/blog/" target="_blank">Blog</a> (www.lucanaso.it/blog/).
 
-Gli articoli sono intesi come dei mini tutorial, dove si alternano parti teoriche e applicazioni pratiche in Python. Riportano il codice sorgente con commenti molto estesti. Spesso e' riportato anche l'output della console.
+Gli articoli sono intesi come dei mini tutorial, dove si alternano parti teoriche e applicazioni pratiche in Python. Riportano il codice sorgente con commenti molto estesti. Spesso è riportato anche l'output della console.
 
 La serie procede per passi, iniziando con argomenti semplici e funzionali ai passi sucessivi. Questo vale sia per l'NLP sia per la programmazione in Python.
 
@@ -43,4 +43,9 @@ La serie procede per passi, iniziando con argomenti semplici e funzionali ai pas
 - File dati: un file, "text_run_eng.txt"
 - Blog post: un articolo, <a href="https://lucanaso.it/2021/02/03/splitting-nlp-di-base-in-python-4-di-9/" target="_blank">Splitting</a> (https://lucanaso.it/2021/02/03/splitting-nlp-di-base-in-python-4-di-9/)
 
+## 5. Bag of words
+- Data di pubblicazione: 19 aprile 2021
+- Codice sorgente: due file "5.1_bag_of_words.py", "NLP_base_library.py"
+- File dati: un file, "text_run_eng.txt"
+- Blog post: un articolo, <a href="https://lucanaso.it/2021/03/21/bag-of-words-nlp-di-base-in-python-5-di-9/" target="_blank">Bag of words</a> (https://lucanaso.it/2021/03/21/bag-of-words-nlp-di-base-in-python-5-di-9/)
 

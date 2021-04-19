@@ -31,3 +31,27 @@ def text_splitting(input_text, chunk_size):
         chunk = ' '.join(current_chunk_words)
         output_chunks.append(chunk)
     return output_chunks
+
+
+# function to nicely print a document-term matrix (first appeared in step 5 of the original series)
+def print_dtm(count_vectorizer_obj, dtm, print_indices):
+    # print the matrix with words on rows and documents on cols
+    # read the total number of documents
+    tot_docs = len(dtm.toarray())
+    # set the print format
+    row_format = '{:^5}|' + '{:^15}|' + '{:^8}|'*tot_docs
+    row_length = 1 + 5 + 15 + 9 * tot_docs+1
+    # print the header
+    print('\n'+'-' * row_length)
+    doc_names = []
+    for number in range(tot_docs):
+        doc_names.append('Doc-{:02d}'.format(number+1))
+    print(row_format.format('#', 'Word', *doc_names))
+    print('-' * row_length)
+    # print the rows
+    start = print_indices[0]  # index of the first word/feature
+    end = print_indices[1]  # index of the last word/feature
+    for i, word, count in zip(range(start, end), count_vectorizer_obj.get_feature_names()[start:end],
+                              dtm.T.toarray()):
+        print(row_format.format(i+1, word, *count))
+    print('-' * row_length)
